@@ -1,3 +1,3 @@
 # Sass / Scss initial setup  
 * sass -v  
-* sass --watch style style.scss:style.css
+* sass --watch style.scss:style.css
